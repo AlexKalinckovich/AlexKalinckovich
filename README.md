@@ -3,14 +3,21 @@
 Hi, I'm **Alecksey Kalinckovich**, a passionate full-stack developer specializing in building scalable, high-performance applications. I have strong expertise in Java ecosystem technologies and microservices architecture, with experience in event-driven systems and cloud-native development. I'm constantly exploring new technologies and best practices to create efficient, maintainable solutions.
 
 When I'm not coding, you can find me contributing to open-source projects, learning new architectural patterns, or sharing knowledge with the developer community.
+---
+## 🎓 Education
+
+**BSUIR - Belarusian State University of Informatics and Radioelectronics**  
+*Faculty of Computer Systems and Networks*  
+📍 3rd Year Student | Expected Graduation: 2027
 
 ---
+# 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
+## 🎯 Main Stack
 
-### 🎯 Main Stack
+### **Languages & Core Technologies**
+<div align="center">
 
-#### **Languages & Core Technologies**
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring Boot">
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white" alt="Spring Security">
@@ -18,13 +25,33 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/Spring_Data-6DB33F?logo=spring&logoColor=white" alt="Spring Data">
 <img src="https://img.shields.io/badge/Spring_Core-6DB33F?logo=spring&logoColor=white" alt="Spring Core">
 
-#### **Databases & Data Management**
+</div>
+
+### **Build Tools & Testing**
+<div align="center">
+
+<img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" alt="Maven">
+<img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle">
+<img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" alt="JUnit">
+<img src="https://img.shields.io/badge/Mockito-00A0D0?logo=&logoColor=white" alt="Mockito">
+
+</div>
+
+### **Databases & Data Management**
+<div align="center">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 <img src="https://img.shields.io/badge/Liquibase-2962FF?logo=liquibase&logoColor=white" alt="Liquibase">
 
-#### **Web Communication & APIs**
+</div>
+
+### **Web Communication & APIs**
+<div align="center">
+
 <img src="https://img.shields.io/badge/REST-API-FF6C37?logo=rest&logoColor=white" alt="REST API">
 <img src="https://img.shields.io/badge/SOAP-API-FF6C37?logo=soap&logoColor=white" alt="SOAP API">
 <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white" alt="WebSocket">
@@ -33,50 +60,86 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/TCP_IP-010101?logo=internetexplorer&logoColor=white" alt="TCP/IP">
 <img src="https://img.shields.io/badge/UDP-010101?logo=internetexplorer&logoColor=white" alt="UDP">
 
-#### **Message Brokers & Event Streaming**
+</div>
+
+### **Message Brokers & Event Streaming**
+<div align="center">
+
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" alt="Apache Kafka">
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 
-#### **Architecture & Design Patterns**
+</div>
+
+### **Architecture & Design Patterns**
+<div align="center">
+
 <img src="https://img.shields.io/badge/CQRS-010101?logo=archlinux&logoColor=white" alt="CQRS">
 <img src="https://img.shields.io/badge/SAGA-010101?logo=archlinux&logoColor=white" alt="SAGA">
 <img src="https://img.shields.io/badge/2PC-010101?logo=archlinux&logoColor=white" alt="Two-Phase Commit">
 <img src="https://img.shields.io/badge/Transactional_Outbox-010101?logo=archlinux&logoColor=white" alt="Transactional Outbox">
 <img src="https://img.shields.io/badge/Corruption_Layer-010101?logo=archlinux&logoColor=white" alt="Corruption Layer">
 
-#### **DevOps & Containerization**
+</div>
+
+### **DevOps & Containerization**
+<div align="center">
+
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker">
 <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?logo=docker&logoColor=fff" alt="Docker Desktop">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab CI">
 
-#### **Security & Identity Management**
+</div>
+
+### **Security & Identity Management**
+<div align="center">
+
 <img src="https://img.shields.io/badge/OAuth_2.0-EC1C24?logo=oauth&logoColor=white" alt="OAuth 2.0">
 <img src="https://img.shields.io/badge/OpenID-EC1C24?logo=openid&logoColor=white" alt="OpenID">
 
-#### **Data Formats & Configuration**
+</div>
+
+### **Data Formats & Configuration**
+<div align="center">
+
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON">
 <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML">
 <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" alt="YAML">
 
-### 🔹 Familiar With
+</div>
 
-#### **Programming Languages**
+## 🔹 Familiar With
+
+### **Programming Languages**
+<div align="center">
+
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white" alt="Scala">
 
-#### **Frontend Technologies**
+</div>
+
+### **Frontend Technologies**
+<div align="center">
+
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React">
 
-#### **Platforms & Tools**
+</div>
+
+### **Platforms & Tools**
+<div align="center">
+
 <img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" alt="OpenShift">
 <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff" alt="Helm">
+
+</div>
+
+---
 
 ---
 
@@ -102,14 +165,6 @@ When I'm not coding, you can find me contributing to open-source projects, learn
     </td>
   </tr>
 </table>
-
----
-
-## 🎓 Education
-
-**BSUIR - Belarusian State University of Informatics and Radioelectronics**  
-*Faculty of Computer Systems and Networks*  
-📍 3rd Year Student | Expected Graduation: 2027
 
 ---
 
