@@ -177,7 +177,7 @@ When I'm not coding, you can find me contributing to open-source projects, learn
   <a href="mailto:AlexKalinckovich@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="#" target="_blank"> <!-- Add your CV link later -->
+  <a href="https://github.com/AlexKalinckovich/AlexKalinckovich/raw/main/Aliaksey Kalinckovich. CV.docx.pdf" target="_blank"> 
     <img src="https://img.shields.io/badge/CV-Download-6E57E0?logo=adobeacrobatreader&logoColor=white" alt="CV">
   </a>
 </p>
