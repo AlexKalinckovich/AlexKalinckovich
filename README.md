@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Alecksey Kalinckovich**, a passionate full-stack developer specializing in building scalable, high-performance applications. I have strong expertise in Java ecosystem technologies and microservices architecture, with experience in event-driven systems and cloud-native development. I'm constantly exploring new technologies and best practices to create efficient, maintainable solutions.
+Hi, I'm **Aliaksey Kalinckovich**, a passionate full-stack developer specializing in building scalable, high-performance applications. I have strong expertise in Java ecosystem technologies and microservices architecture, with experience in event-driven systems and cloud-native development. I'm constantly exploring new technologies and best practices to create efficient, maintainable solutions.
 
 When I'm not coding, you can find me contributing to open-source projects, learning new architectural patterns, or sharing knowledge with the developer community.
 ---
@@ -11,6 +11,20 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 📍 3rd Year Student | Expected Graduation: 2027
 
 ---
+## 📞 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alecksey-kalinckovich-2a9546318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:AlexKalinckovich@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/AlexKalinckovich/AlexKalinckovich/raw/main/Aliaksey Kalinckovich. CV.docx.pdf" target="_blank"> 
+    <img src="https://img.shields.io/badge/CV-Download-6E57E0?logo=adobeacrobatreader&logoColor=white" alt="CV">
+  </a>
+</p>
+
 # 🛠️ Technical Skills
 
 ## 🎯 Main Stack
@@ -165,19 +179,3 @@ When I'm not coding, you can find me contributing to open-source projects, learn
     </td>
   </tr>
 </table>
-
----
-
-## 📞 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alecksey-kalinckovich-2a9546318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:AlexKalinckovich@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/AlexKalinckovich/AlexKalinckovich/raw/main/Aliaksey Kalinckovich. CV.docx.pdf" target="_blank"> 
-    <img src="https://img.shields.io/badge/CV-Download-6E57E0?logo=adobeacrobatreader&logoColor=white" alt="CV">
-  </a>
-</p>
