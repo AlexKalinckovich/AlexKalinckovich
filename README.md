@@ -1,8 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Aliaksey Kalinckovich**, a passionate full-stack developer specializing in building scalable, high-performance applications. I have strong expertise in Java ecosystem technologies and microservices architecture, with experience in event-driven systems and cloud-native development. I'm constantly exploring new technologies and best practices to create efficient, maintainable solutions.
-
-When I'm not coding, you can find me contributing to open-source projects, learning new architectural patterns, or sharing knowledge with the developer community.
+Hi, I'm **Aliaksey Kalinckovich**, a passionate full-stack student developer specializing in building scalable, high-performance applications. I have strong expertise in Java ecosystem technologies and microservices architecture, with experience in event-driven systems and cloud-native development. I'm constantly exploring new technologies and best practices to create efficient, maintainable solutions.
 ---
 ## 🎓 Education
 
