@@ -58,7 +58,6 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" alt="Elasticsearch">
 <img src="https://img.shields.io/badge/Liquibase-2962FF?logo=liquibase&logoColor=white" alt="Liquibase">
 
 </div>
@@ -142,14 +141,6 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React">
-
-</div>
-
-### **Platforms & Tools**
-<div align="center">
-
-<img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white" alt="OpenShift">
-<img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff" alt="Helm">
 
 </div>
 
