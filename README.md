@@ -131,6 +131,7 @@ When I'm not coding, you can find me contributing to open-source projects, learn
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white" alt="Scala">
 
 </div>
