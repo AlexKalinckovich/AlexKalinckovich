@@ -151,14 +151,6 @@ Hi, I'm **Aliaksey Kalinckovich**, a passionate full-stack student developer spe
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AlexKalinckovich&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKalinckovich&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexKalinckovich&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
     </td>
