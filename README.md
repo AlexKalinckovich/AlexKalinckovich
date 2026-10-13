@@ -1,10 +1,10 @@
 # Hi, I'm Aliaksey Kalinckovich 👋
 
-**Java/Kotlin Backend Developer** focused on building production-ready microservices, distributed systems, asynchronous backend flows and observable services.
+**Java/Kotlin Backend Developer** focused on production-ready microservices, distributed systems, asynchronous backend flows and observable services.
 
-My recent experience includes working at **T-Bank** on Kotlin/Kora microservices connecting media content with Shopping and e-commerce user journeys. I worked on distributed caching, API migration, batch processing, content-to-product relations, feature flags, gRPC integrations, observability and legacy code cleanup.
+I build and maintain backend systems in the e-commerce and media-commerce domains. Recent work includes **Kotlin/Kora microservices** connecting media content with Shopping user journeys — distributed caching, API migration, batch processing, content-to-product relations, feature flags, gRPC integrations, observability and legacy cleanup.
 
-I’m especially interested in **backend engineering**, **Java/Kotlin development**, **microservices**, **distributed systems**, **Kotlin Coroutines**, **Redis**, **OpenTelemetry** and reliable production software.
+I'm especially interested in **Java/Kotlin development**, **microservices**, **distributed systems**, **Kotlin Coroutines**, **Redis**, **OpenTelemetry** and reliable production software.
 
 ---
 
@@ -27,66 +27,52 @@ I’m especially interested in **backend engineering**, **Java/Kotlin developmen
 - **Frameworks:** Kora, Spring Boot, Spring Cloud, Spring WebFlux
 - **Architecture:** Microservices, REST APIs, OpenAPI, gRPC, distributed systems
 - **Async:** Kotlin Coroutines, asynchronous processing, batch jobs, context propagation
-- **Data:** PostgreSQL, SQL, Redis, distributed caching, MongoDB
+- **Data & Caching:** PostgreSQL, SQL, Redis, distributed caching, MongoDB
 - **Observability:** OpenTelemetry, distributed tracing, MDC, structured logging, Grafana
 - **DevOps:** Docker, Docker Compose, Kubernetes, Helm, CI/CD
 - **Testing:** JUnit, Mockito, Testcontainers, WireMock
+- **Also worked with:** Kafka, RabbitMQ, Liquibase, Maven, Gradle
 
 ---
 
 ## ⚙️ Engineering Focus
 
 - Building and maintaining **production-ready backend microservices**
-- Designing and evolving **REST/OpenAPI and gRPC integrations**
-- Improving service reliability with **observability, structured logging and distributed tracing**
+- Designing and evolving **REST/OpenAPI and gRPC** service integrations
+- Improving reliability with **observability, structured logging and distributed tracing**
 - Working with **Redis caching**, cache migration and cache-backed backend flows
 - Supporting **API migration**, legacy cleanup and technical debt reduction
 - Developing backend logic for **e-commerce**, media-commerce and product discovery flows
-- Participating in **code reviews, CI/CD releases, rolling updates and production validation**
+- Contributing to **code reviews, CI/CD releases, rolling updates and production validation**
 
 ---
 
 ## 💼 Experience
 
-### T-Bank — Backend Developer / Kotlin Backend Developer
-`[MM/YYYY] – [MM/YYYY or Present]`
+### T-Bank — Backend Developer (Kotlin) · 07/2026 – 10/2026
+Production **Kotlin/Kora microservices** connecting media content with Shopping/e-commerce user journeys.
+- **Media–Commerce Integration:** system endpoints for unlinked content items, batch **remapping** flow to product catalog references.
+- **Caching & API:** **Redis Cache-as-a-Service**, OpenAPI contracts, replacing individual calls with batch requests.
+- **Observability:** **OpenTelemetry/MDC** context propagation across Kotlin coroutines and async jobs.
+- **Migration:** legacy API **V1 → V2** cleanup; **feature flags**; internal **gRPC** cache integration.
+- **Core e-commerce backend:** product shelf bug fixes, media-link support, top-3 exclusion logic, V1/V2 toggle fallback fix.
+- **Production:** Jira/Kanban, code review, CI/CD releases, rolling updates, monitoring, Grafana, ADR notes.
 
-Worked in the Growth team on production **Kotlin/Kora microservices** connecting media content with Shopping and e-commerce user journeys.
-
-Key areas of work:
-
-- **Media–Commerce Integration:** developed system endpoints for collecting content items with missing product relations and implemented a batch remapping flow for associating content product references with relevant catalog products.
-- **API and batch optimization:** worked with OpenAPI contracts and replaced multiple individual service calls with batch requests where appropriate.
-- **Distributed caching:** implemented and migrated Redis-based caching, including Redis Cache-as-a-Service usage, to improve consistency across service instances.
-- **Observability:** added OpenTelemetry/MDC context propagation across Kotlin coroutines and asynchronous background jobs.
-- **API migration and legacy cleanup:** removed obsolete API V1 components after migration to V2 and cleaned up unused endpoints, clients and configuration.
-- **Content recommendation flows:** migrated article recommendation logic to a new API, implemented category/subcategory filtering and added caching for reference availability.
-- **Feature flags and integrations:** added feature-toggle support for optional processing flows and extended an internal gRPC-based cache integration.
-- **Core e-commerce backend:** fixed product shelf rendering bugs, added media-link support, implemented top-3 product exclusion logic and corrected V1/V2 feature-toggle fallback behavior.
-- **Production engineering:** worked with Jira/Kanban, code review, CI/CD releases, rolling updates, monitoring, alerting, Grafana analysis and ADR-style technical documentation.
-
-### Innowise Group — Software Engineering Intern / Java Backend
-`[MM/YYYY] – [MM/YYYY]`
-
-Worked on a Java/Spring e-commerce backend project.
-
-- Developed backend functionality using **Java**, **Spring Boot**, **Spring Cloud** and REST APIs.
-- Implemented API Gateway functionality with JWT authentication and request routing.
-- Worked with service-to-service communication and asynchronous flows.
-- Used PostgreSQL, MongoDB, Redis and Liquibase for data storage, caching and migrations.
-- Wrote unit and integration tests using JUnit, Mockito and Testcontainers.
-- Worked with Docker, Kubernetes, Helm and CI/CD workflows.
+### Innowise Group — Software Engineering Intern (Java Backend) · 06/2025 – 06/2026
+- **Java / Spring Boot / Spring Cloud** e-commerce backend, REST APIs, API Gateway with JWT.
+- Async flows via **Kafka**; **PostgreSQL / MongoDB** with **Liquibase**; **Redis** caching.
+- **JUnit / Mockito / Testcontainers** tests; **Docker / Kubernetes / Helm** and CI/CD.
 
 ---
 
 ## 🚀 Featured Projects
 
-> Most of my recent production work was done in private repositories. Below are public or sanitized projects that reflect my backend engineering interests.
+> Most of my recent production work lives in private repositories. Below are public or sanitized examples reflecting my backend interests.
 
-### Java/Kotlin Backend Projects
-- **E-commerce backend / microservices project** — Java, Spring Boot, PostgreSQL, Redis, Docker
-- **Kotlin backend service examples** — Kotlin, Coroutines, REST APIs
-- **Infrastructure and DevOps examples** — Docker Compose, Kubernetes, Helm, CI/CD
+### Java/Kotlin Backend
+- **E-commerce backend / microservices** — Java, Spring Boot, PostgreSQL, Redis, Docker
+- **Kotlin backend service** — Kotlin, Coroutines, REST APIs
+- **DevOps / infrastructure** — Docker Compose, Kubernetes, Helm, CI/CD
 
 <!-- Replace the examples above with real repositories:
 - [Project Name](https://github.com/your/repo) — short description
@@ -97,20 +83,8 @@ Worked on a Java/Spring e-commerce backend project.
 
 ## 🎓 Education
 
-**Belarusian State University of Informatics and Radioelectronics (BSUIR)**
-Faculty of Computer Systems and Networks — KSIS
-Bachelor's Degree in Software Engineering
-Expected graduation: **2027**
-
----
-
-## 📚 Currently Improving
-
-- Advanced Kotlin Coroutines and structured concurrency
-- Distributed tracing and observability patterns
-- High-load backend design
-- PostgreSQL performance and indexing
-- Kubernetes and production deployment practices
+**Belarusian State University of Informatics and Radioelectronics (BSUIR)** — Faculty of Computer Systems and Networks (KSIS)
+Bachelor's Degree in Software Engineering · Expected graduation: **2027**
 
 ---
 
@@ -137,5 +111,14 @@ Expected graduation: **2027**
   </a>
   <a href="https://t.me/alexKalinck" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <a href="Resume_Aliaksey_Kalinckovich_T-Bank.html">
+    <img src="https://img.shields.io/badge/CV-English-6E57E0?logo=adobeacrobatreader&logoColor=white" alt="CV English">
+  </a>
+  <a href="Resume_Aliaksey_Kalinckovich_T-Bank_RU.html">
+    <img src="https://img.shields.io/badge/CV-Русский-6E57E0?logo=adobeacrobatreader&logoColor=white" alt="CV Русский">
   </a>
 </p>
